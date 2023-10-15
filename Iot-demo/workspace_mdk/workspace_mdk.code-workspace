@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "usart.h": "c",
+            "stdio.h": "c",
+            "freertos.h": "c",
+            "freertosconfig.h": "c",
+            "elog.h": "c"
+        }
+    },
+    "extensions": {}
+}
